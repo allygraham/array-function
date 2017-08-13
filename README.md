@@ -27,7 +27,6 @@ Clone the project onto your machine:
 git clone git@github.com:allygraham/array-function.git
 ```
 
-
 ### Run tests
 
 By typing the command __mocha__ in your terminal while in the project folder, the tests will run.
